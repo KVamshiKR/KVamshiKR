@@ -100,6 +100,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KVamshiKR/KVamshiKR/blob/output/snake.svg" alt="Snake animation" />
 ![snake gif](https://github.com/KVamshiKR/KVamshiKR/blob/output/github-snake-dark.svg)
 ###
